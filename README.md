@@ -131,7 +131,7 @@ Use Android Studio's **Logcat** to debug runtime errors or crashes.
 Feel free to fork this repository and contribute:
 1. Create a feature branch.
 2. Make your changes.
-3. Push your changes and create a pull request.
+3. Push your changes and create a pull requests.
 
 ---
 
