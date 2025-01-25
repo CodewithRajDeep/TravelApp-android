@@ -100,7 +100,7 @@ The project uses the following libraries:
 
 ## Important Notes
 
-1. **Min SDK:** 24
+1. **Min SDK:** 28
 2. **Target SDK:** 33
 3. **Build Tools Version:** 34.0.0
 4. **ProGuard:** Ensure ProGuard rules are set correctly for release builds.
