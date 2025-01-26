@@ -119,7 +119,7 @@ The project uses the following libraries:
 ### Common Issues:
 - **Gradle Sync Issues**: Ensure you have a stable internet connection and the correct Gradle version.
 - **Device Not Recognized**: Check USB drivers or enable USB Debugging on your device.
-- **Library Version Conflicts**: Update dependencies in the `build.gradle` file if necessary.
+- **Library Version Conflicts**: Update all dependencies in the `build.gradle` file if necessary.
 
 ### Logs:
 Use Android Studio's **Logcat** to debug runtime errors or crashes.
