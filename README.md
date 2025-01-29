@@ -117,7 +117,7 @@ The project uses the following libraries:
 ## Troubleshooting
 
 ### Common Issues:
-- **Gradle Sync Issues**: Ensure you have a stable internet connection and the correct Gradle version.
+- **Gradle Sync Issues**: Ensure you have a stable internet connections and the correct Gradle version.
 - **Device Not Recognized**: Check USB drivers or enable USB Debugging on your device.
 - **Library Version Conflicts**: Update all dependencies in the `build.gradle` file if necessary.
 
